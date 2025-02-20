@@ -1,4 +1,25 @@
 ## Hi there 👋
+```json
+{
+  "name": "Imam Satrio Prakoso",
+  "age": 22,
+  "hobbies": [
+    "Reading",
+    "Music Enthusiast"
+  ],
+  "skills": [
+    "Web Development",
+    "Mobile Development",
+    "Internet Of Things",
+  ],
+  "contact": {
+    "email": "root@sazumi.moe",
+    "instagram": "https://www.instagram.com/__imsat",
+    "site": "https://imsat.my.id"
+  }
+}
+
+```
 
 ### Github Statistic
 
