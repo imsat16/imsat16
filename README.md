@@ -13,7 +13,7 @@
     "Internet Of Things",
   ],
   "contact": {
-    "email": "root@sazumi.moe",
+    "email": "imamsatrio23@gmail.com",
     "instagram": "https://www.instagram.com/__imsat",
     "site": "https://imsat.my.id"
   }
