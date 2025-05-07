@@ -5,6 +5,7 @@
   "age": 22,
   "hobbies": [
     "Reading",
+    "Running",
     "Music Enthusiast"
   ],
   "skills": [
@@ -14,7 +15,7 @@
   ],
   "contact": {
     "email": "imamsatrio23@gmail.com",
-    "instagram": "https://www.instagram.com/__imsat",
+    "instagram": "https://www.instagram.com/imsat.io",
     "site": "https://imsat.my.id"
   }
 }
